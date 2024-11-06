@@ -1,0 +1,11 @@
+C:\Users\Ricar\source\repos\Venta360\bin\Debug\Venta360.exe.config
+C:\Users\Ricar\source\repos\Venta360\bin\Debug\Venta360.exe
+C:\Users\Ricar\source\repos\Venta360\bin\Debug\Venta360.pdb
+C:\Users\Ricar\source\repos\Venta360\obj\Debug\Venta360.csproj.AssemblyReference.cache
+C:\Users\Ricar\source\repos\Venta360\obj\Debug\Venta360.Form1.resources
+C:\Users\Ricar\source\repos\Venta360\obj\Debug\Venta360.Properties.Resources.resources
+C:\Users\Ricar\source\repos\Venta360\obj\Debug\Venta360.csproj.GenerateResource.cache
+C:\Users\Ricar\source\repos\Venta360\obj\Debug\Venta360.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\source\repos\Venta360\obj\Debug\Venta360.exe
+C:\Users\Ricar\source\repos\Venta360\obj\Debug\Venta360.pdb
+C:\Users\Ricar\source\repos\Venta360\obj\Debug\Venta360.Menu_Principal.resources
